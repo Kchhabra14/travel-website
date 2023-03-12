@@ -1,0 +1,11 @@
+ Absolute positioned elements are removed from the normal flow, 
+ and can overlap elements.
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    color: #fff
+
+A display property with
+a value of "block" results in
+a line break between each span elements.
